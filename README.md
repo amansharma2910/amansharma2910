@@ -5,7 +5,7 @@
 #### My machine and I are learning right now. By the time, you can have a look at my profile.
 
 ### ABOUT ME:
-An Deep Learning and Computer Vision practitioner by profession, and an avid learner & tech blogger by passion, I'm a strong believer in the ideology that __data is the new oil in the 21st century__. I'm currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning. A supporter of universal free education, I spend my weekends writing technical blogs and tutorials, educating myself and others. 
+A Deep Learning and Computer Vision practitioner by profession, and an avid learner & tech blogger by passion, I'm a strong believer in the ideology that __data is the new oil in the 21st century__. I'm currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning. A supporter of universal free education, I spend my weekends writing technical blogs and tutorials, educating myself and others. 
 
 > __"Let the dataset change your mindset.."__
 
