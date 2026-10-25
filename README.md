@@ -1,38 +1,20 @@
-<img src="https://github.com/amansharma2910/amansharma2910/blob/main/Simple%20Work%20LinkedIn%20Banner.jpg">
+![Aman Sharma. I design AI-native systems for industries with no margin for error.](assets/banner.png)
 
-<h3 align="center"><b>Welcome to my profile, visitor. Aman here! 👋</b></h3>
+**Head of Product at TheAgentic.** 
+Backend → ML → full-stack AI → product, so I still build what I direct.
 
-#### My machine and I are learning right now. By the time, you can have a look at my profile.
+- Leading a team of forward-deployed engineers shipping multi-agent systems for highly regulated domains like energy, healthcare, legal, and finance.
+- Building Sanscritic, a model-agnostic reasoning engine.
 
-### ABOUT ME:
-A Deep Learning and Computer Vision practitioner by profession, and an avid learner & tech blogger by passion, I'm a strong believer in the ideology that __data is the new oil in the 21st century__. I'm currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning. A supporter of universal free education, I spend my weekends writing technical blogs and tutorials, educating myself and others. 
+**Website → [amansh.ai](https://amansh.ai)**
 
-> __"Let the dataset change your mindset.."__
+![Python](https://img.shields.io/badge/Python-2A4FD6?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2A4FD6?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2A4FD6?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-2A4FD6?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2A4FD6?style=flat-square&logo=docker&logoColor=white)
 
-### MY TECH STACK:
-#### Machine Learing Stack:
-[![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=0bf)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=f00)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=f77c00)
-
-![NumPy](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
-![Pandas](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-170263?&logo=Matplotlib&logoColor=336791)
-![Seaborn](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)
-![Plotly](https://img.shields.io/badge/-Plotly-1d0180?&logo=Plotly&logoColor=336791)
-
-#### Full Stack Development Stack:
-![Flutter](https://img.shields.io/badge/-Flutter-4f0000?&logo=Flutter&logoColor=0bf)
-![Dart](https://img.shields.io/badge/-Dart-5e0000?&logo=Dart&logoColor=0bf)
-![SQLite](https://img.shields.io/badge/-SQLite-730101?&logo=SQLite&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-870101?&logo=Django&logoColor=0d0)
-![Firebase](https://img.shields.io/badge/-Firebase-9e0202?&logo=Firebase&logoColor=bdc700)
-
-#### Others:
-[![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C)
-
-
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansharma2910&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amansharma2910&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
+[![X](https://img.shields.io/badge/X-@amansharma2910-2A4FD6?style=flat-square&logo=x&logoColor=white)](https://x.com/amansharma2910)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amansharma2910-2A4FD6?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://linkedin.com/in/amansharma2910)
+[![Email](https://img.shields.io/badge/Email-2A4FD6?style=flat-square&logo=gmail&logoColor=white)](mailto:amansharma2910@gmail.com)
 
