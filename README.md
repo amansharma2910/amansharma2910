@@ -20,5 +20,5 @@ Backend → ML → full-stack AI → product, so I still build what I direct.
 
 ### GitHub
 
-![Aman Sharma's GitHub contributions as a 3D calendar, with activity breakdown and top languages](profile-3d-contrib/profile-3d.svg)
+<img src="profile-3d-contrib/profile-3d.svg" alt="Aman Sharma's GitHub contributions as a 3D calendar, with activity breakdown and top languages" width="560" />
 
